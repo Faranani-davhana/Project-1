@@ -1,4 +1,4 @@
-# Project-1
+# Learning-git-and-github
 Learning Git and GitHub as part of the IBM SkillsBuild Data Fundamentals course
 This is my first GitHub repository. I am creating it as part of the IBM SkillsBuild Data Fundamentals course.
 
